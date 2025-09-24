@@ -1,0 +1,1 @@
+How do you convince non-technical stakeholders (e.g. product management, business leadership) to allocate time and budget toward paying down technical debt, given pressure to deliver new features?

@@ -1,0 +1,1 @@
+What architectural trade-off analysis methods do you know (for example ATAM), and how would you apply them in evaluating a system design or architecture decision where technical debt is a concern?

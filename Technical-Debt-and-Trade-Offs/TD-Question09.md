@@ -1,0 +1,1 @@
+What is architectural debt (as opposed to code debt)? How does it evolve over time, and what are strategies and costs involved in paying it down?

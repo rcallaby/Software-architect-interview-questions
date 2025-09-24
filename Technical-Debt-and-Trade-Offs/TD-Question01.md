@@ -1,0 +1,1 @@
+# TD - Question 01 - What is technical debt? Can you enumerate different types (architecture, design, code, test, requirements, etc.) and illustrate with examples?

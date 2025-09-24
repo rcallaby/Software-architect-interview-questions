@@ -1,0 +1,1 @@
+Describe a scenario in which taking on technical debt was a valid trade-off. What was the decision, and how was the debt subsequently managed or paid off?

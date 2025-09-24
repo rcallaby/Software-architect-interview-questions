@@ -1,0 +1,1 @@
+How do you ensure that new architectural decisions do not introduce technical debt (or that debt is minimized)? What practices, governance, or cultural factors support this?
