@@ -1,0 +1,1 @@
+In a microservices architecture, what types of technical debt are particularly risky, and how should one manage trade-offs around service granularity, coupling, and data consistency?

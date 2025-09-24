@@ -1,0 +1,1 @@
+What trade-offs must be considered when designing for performance vs maintainability vs scalability? How does technical debt play into such trade-offs?

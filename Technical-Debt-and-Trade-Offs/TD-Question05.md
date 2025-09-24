@@ -1,0 +1,1 @@
+How would you decide whether to refactor an existing system, rewrite from scratch, or continue with incremental changes? What technical debt and trade-off factors enter that decision?
