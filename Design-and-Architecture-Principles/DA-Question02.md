@@ -1,0 +1,1 @@
+# DA - Question 02 - What is the Don't Repeat Yourself (DRY) principle? How does it relate to code maintainability?

@@ -1,0 +1,1 @@
+# MA - Question 09 - Imagine we are building a new social media platform. How would you design the data model and architecture to support a highly-performant news feed for millions of users?

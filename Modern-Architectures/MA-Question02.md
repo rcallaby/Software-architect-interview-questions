@@ -1,0 +1,1 @@
+# MA - Question 02 - Explain the concept of event-driven architecture (EDA). Can you provide a real-world example of its use?

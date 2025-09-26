@@ -1,0 +1,1 @@
+# MA - Question 04 - Describe the CAP theorem. How does it influence your architectural decisions when designing a distributed system?

@@ -1,0 +1,1 @@
+# MA - Question 05 - How would you design a system to handle cascading failures in a microservices architecture?

@@ -1,0 +1,1 @@
+# MA - Question 08 - Discuss the trade-offs of serverless architecture. When is it a good fit, and when would you avoid it?
