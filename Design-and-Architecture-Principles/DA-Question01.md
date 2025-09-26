@@ -1,0 +1,1 @@
+# DA - Question 01 - Explain the SOLID principles. Why are they important for writing maintainable and scalable code?

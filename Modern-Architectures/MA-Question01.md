@@ -1,0 +1,1 @@
+# MA - Question 01 - What's the difference between a monolithic and a microservices architecture, and when would you choose one over the other?

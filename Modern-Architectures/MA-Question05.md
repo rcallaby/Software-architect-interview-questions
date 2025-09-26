@@ -1,0 +1,1 @@
+# MA - Question 05 - What's the difference between scalability and elasticity? How would you design a system to be both?

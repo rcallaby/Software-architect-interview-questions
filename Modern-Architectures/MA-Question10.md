@@ -1,0 +1,1 @@
+# MA - Question 10 - You've been asked to migrate a legacy, on-premise monolithic application to a cloud-native microservices architecture. What is your strategy, and what are the key challenges you anticipate?
