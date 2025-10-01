@@ -1,6 +1,6 @@
 # MA - Questino 07 - Explain the role of a service mesh in a microservices architecture. When would you recommend using one?
 
-### Understanding Service Mesh in Microservices Architecture
+## Understanding Service Mesh in Microservices Architecture
 
 In a microservices architecture, applications are built as a collection of small, independent services that communicate over networks. As the number of services grows, managing this communication becomes complex, involving concerns like reliability, security, and observability. A service mesh addresses these challenges by providing a dedicated infrastructure layer that handles service-to-service interactions without requiring changes to the application code.
 
